@@ -1,6 +1,7 @@
 # ShowKuromi (Glyphs 3 / 4 Reporter Plugin)
 
 Glyphs 3 および 4 の編集ビュー（Edit View）上で，グリフの黒みの幾何学的重心（Center of Mass）および仮想ボディ（Em Square）に対する黒み充填率（面積比）をリアルタイムに計算・描画する Reporter プラグインです．
+
 <img width="1958" height="1398" alt="1B48A5B8-146E-4963-A31F-4DD50FCA5947" src="https://github.com/user-attachments/assets/8201ef62-81c4-459f-a881-3e7de47b7d05" />
 
 > [!NOTE]
