@@ -41,6 +41,7 @@ Glyphs 3 および 4 の編集ビュー（Edit View）上で，グリフの黒�
 
 ## フォルダ構造
 
+```text
 ShowKuromi/
 ├── ShowKuromi.glyphsReporter/
 │   └── Contents/
@@ -50,6 +51,7 @@ ShowKuromi/
 │       └── Resources/
 │           └── plugin.py              # プラグインのメインプログラム（Python）              
 └── README.md                          # 本解説書
+```
 
 ---
 
@@ -63,6 +65,7 @@ ShowKuromi/
 
 ---
 
+```text
 －・　・－・・　－・・・　－－・－・　
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
@@ -75,6 +78,8 @@ ShowKuromi/
 ＼＼　　＼　　　　　＼　　　　　＼　　＼　　　　　＼　　＼＼　＼　　　＼　　＼　　　　　　＼
 　＼＼＼＼　　　　　＼　　＼＼＼＼　　＼　　　　　＼＼＼＼　　＼　　　＼　　＼＼＼　＼＼＼　
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+```
 
 使っていただきありがとうございます！
 
